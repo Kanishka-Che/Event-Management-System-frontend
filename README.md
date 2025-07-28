@@ -9,6 +9,20 @@ Frontend: React, Axios, CSS
 Backend: Node.js, Express.js
 Database: MySQL
 
+for frontend
+cd ../frontend
+npm install
+npm start
+
+for backend
+cd backend
+npm install
+node index.js
+
+
+
+
+
 
 
 
